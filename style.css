@@ -1,0 +1,18 @@
+.img{
+	max-width:100%;
+}
+.gallery{
+	background-color:#dbdff1;
+	padding: 80px 0;
+}
+.gallery-item {
+	background-color:#ffffff;
+	padding: 15px;
+	width: 200px;
+	box-shadow: 0 0 15px rgba(0,0,0,3);
+	cursor: pointer;
+}
+.lb-image {
+  width: 750px !important;
+  height: auto !important;
+}
